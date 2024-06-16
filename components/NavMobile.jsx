@@ -14,25 +14,25 @@ const links = [
   {
     icon: <RiHomeFill />,
     path: "home",
-    name: "home",
+    name: "Home",
     offset: 0,
   },
   {
     icon: <BiSolidFoodMenu />,
     path: "menu",
-    name: "menu",
+    name: "Menu",
     offset: 0,
   },
   {
     icon: <FaUsers />,
     path: "about",
-    name: "about",
+    name: "About",
     offset: 0,
   },
   {
     icon: <FaEnvelope />,
     path: "footer",
-    name: "contact",
+    name: "Contact",
     offset: 0,
   },
 ];
